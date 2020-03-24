@@ -7,3 +7,4 @@
 - commitar um arquivo
 - fazer o upload para o git hub
 - primeiro commit
+- segundo commit
