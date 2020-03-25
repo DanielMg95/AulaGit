@@ -6,3 +6,4 @@ sexto
 seven
 oitavo
 nono
+decimo
